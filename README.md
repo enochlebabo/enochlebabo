@@ -5,8 +5,8 @@ I’m passionate about building smart, sustainable, and impactful technologies. 
 
 🛠️ Technologies I Use: Flutter, Firebase, TensorFlow Lite, Python, Java, SQL , Typescript, R, MySQL,MongoDB, React,  
 📌 Current Projects:
-- E-wallet system 
-- AI-powered crop disease detection app  
-- Online buy & sell marketplace for Lesotho
+- E-wallet system (flutter)
+- AI-powered crop disease detection app (flutter) 
+- Online buy & sell marketplace for Lesotho (mern stack)
   
 📫 Reach me at: [enochlebabo@gmail.com](mailto:enochlebabo@gmail.com) | [LinkedIn](https://linkedin.com/in/enoch-lebabo-04b651266)  
