@@ -6,6 +6,7 @@ I’m passionate about building smart, sustainable, and impactful technologies. 
 🛠️ Technologies I Use: Flutter, Firebase, TensorFlow Lite, Python, Java, SQL , Typescript, R, MySQL,MongoDB, React,  
 📌 Current Projects:
 - E-wallet system (flutter)
+- Ecommerce Website(python-framework[django])
 - AI-powered crop disease detection app (flutter) 
 - Online buy & sell marketplace for Lesotho (mern stack)
 - Ai Smart Retinal Disease Diagnosis using deep learning models(flutter)
