@@ -8,5 +8,6 @@ I’m passionate about building smart, sustainable, and impactful technologies. 
 - E-wallet system (flutter)
 - AI-powered crop disease detection app (flutter) 
 - Online buy & sell marketplace for Lesotho (mern stack)
+- Ai Smart Retinal Disease Diagnosis using deep learning models(flutter)
   
 📫 Reach me at: [enochlebabo@gmail.com](mailto:enochlebabo@gmail.com) | [LinkedIn](https://linkedin.com/in/enoch-lebabo-04b651266)  
