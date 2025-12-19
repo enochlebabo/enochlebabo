@@ -1,5 +1,5 @@
-👋 Hello! I'm Enoch Lebabo
-💻 IT Engineer | 📱 Mobile & AI Developer | 🌍 Tech Innovator from Lesotho | 🎓 BTech IT @ BVM engineering affliated to GTU, India
+Hello! I'm Enoch Lebabo
+💻 IT Engineer | 📱 Mobile , ml & AI Developer | 🎓 BTech IT @ BVM engineering affliated to GTU, India
 
 I’m passionate about building smart, sustainable, and impactful technologies. From mobile apps that detect crop diseases using AI, to marketplace platforms empowering local economies—I believe in tech that transforms lives.
 
