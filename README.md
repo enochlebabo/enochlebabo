@@ -4,6 +4,7 @@
 I’m passionate about building smart, sustainable, and impactful technologies. From mobile apps that detect crop diseases using AI, to marketplace platforms empowering local economies—I believe in tech that transforms lives.
 
 Technologies I Use: Flutter, Firebase, TensorFlow Lite, Python, Java, SQL , Typescript, R, MySQL,MongoDB, React native
+
 State -Management -(Bloc / Riverpod)
 Real-Time Data-	(WebSockets / Firebase)
 APIs-	(REST, OAuth 2.0)
