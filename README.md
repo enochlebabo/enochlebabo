@@ -6,12 +6,19 @@ I’m passionate about building smart, sustainable, and impactful technologies. 
 Technologies I Use: Flutter, Firebase, TensorFlow Lite, Python, Java, SQL , Typescript, R, MySQL,MongoDB, React native
 
 State -Management -(Bloc / Riverpod)
+
 Real-Time Data-	(WebSockets / Firebase)
+
 APIs-	(REST, OAuth 2.0)
+
 AI/ML-	(Scikit-learn, TensorFlow, PyTorch)
+
 DL-	(CNN, LSTM)
+
 Security-	(JWT, Encryption)
+
 Data-	(PostgreSQL, Firebase)
+
 Visualization-	(Charts, Maps)
 
 Recent Projects:
