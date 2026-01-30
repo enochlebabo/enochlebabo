@@ -22,7 +22,7 @@ Data-	(PostgreSQL, Firebase)
 Visualization-	(Charts, Maps)
 
 Recent Projects:
-- Flutter Food Delivey Ecosystem (UserApp, DriverApp, RestuarantApp, AdminPanel) 
+- Flutter Food Delivery Ecosystem (UserApp, DriverApp, RestuarantApp, AdminPanel) 
 - E-wallet system (flutter)
 - Ecommerce Website(python-framework[django])
 - AI-powered crop disease detection app (flutter) 
