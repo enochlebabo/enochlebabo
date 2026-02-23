@@ -1,52 +1,154 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+<h1 align="center">Mr. Enoch Lebabo</h1>
+<h3 align="center">IT Engineer | Full-Stack Architect | AI Systems Builder | Founder</h3>
 
-###
+---
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
-</div>
+## 🏢 Executive Overview
 
-###
+I am an Information Technology Engineer focused on building scalable systems, AI-powered platforms, and structured enterprise technology architectures.
+
+My work integrates:
+
+- Artificial Intelligence & Healthcare Systems  
+- Full-Stack Web & Mobile Engineering  
+- Cloud-Native Infrastructure  
+- Distributed Systems & Data Engineering  
+- Enterprise Structuring & Capital Architecture  
+
+Currently pursuing B.Tech in Information Technology while building real-world scalable products.
+
+---
+
+## 🚀 Core Technology Stack
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+
+<img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript"/>
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs"/>
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=react" height="60" alt="react"/>
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwind"/>
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=python" height="60" alt="python"/>
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=django" height="60" alt="django"/>
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs"/>
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql"/>
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=go" height="60" alt="go"/>
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust"/>
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgres"/>
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=aws" height="60" alt="aws"/>
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker"/>
+
 </div>
 
-###
+---
+
+## 🏗 Strategic Projects
+
+### 🔬 Retinal-AI
+AI-powered retinal disease detection platform featuring:
+- Deep learning fundus image classification
+- Django REST backend
+- React-based clinician dashboard
+- Patient scoring & analytics system
+- Educational and AI chatbot modules
+
+Designed for scalable healthcare deployment.
+
+---
+
+### 🚖 Dot-2-Dot Mobility
+Enterprise mobility system including:
+- Township & corporate transport
+- Driver subscription system
+- Commission-based revenue engine
+- Fleet & dispatch architecture
+
+Built with Flutter + Django REST + PostgreSQL.
+
+---
+
+### 🏛 Structured Enterprise Systems
+Designing holding-company-based multi-sector technology enterprises with:
+- Risk isolation architecture
+- Capital consolidation models
+- Asset protection structuring
+- Scalable subsidiary systems
+
+---
+
+## 📊 Engineering Philosophy
+
+Technology must:
+- Solve systemic problems  
+- Be built for scale from inception  
+- Integrate financial intelligence  
+- Maintain architectural clarity  
+- Operate as an appreciating asset  
+
+I build systems, not just applications.
+
+---
+
+## 📈 GitHub Performance Metrics
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+
+<img src="https://github-readme-stats.vercel.app/api?username=enochlebabo&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" height="160" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enochlebabo&layout=compact&theme=tokyonight&hide_border=false" height="160" />
+
 </div>
 
-###
+---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
+## 🔥 Contribution Activity
 
-###
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=enochlebabo&theme=tokyonight&hide_border=false" height="160" />
+
+</div>
+
+---
+
+## 🌍 Long-Term Vision
+
+To build structured, multi-sector technology enterprises across Africa and globally, focusing on:
+
+- AI-driven healthcare innovation  
+- Intelligent mobility systems  
+- Data engineering & distributed computing  
+- Financially structured technology ecosystems  
+
+Transitioning from engineer to technology-driven enterprise architect and capital allocator.
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/YOUR_LINK">
+<img src="https://img.shields.io/badge/LinkedIn-Professional-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://twitter.com/YOUR_LINK">
+<img src="https://img.shields.io/badge/Twitter-Tech%20Insights-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+</a>
+<a href="https://portfolio-link.com">
+<img src="https://img.shields.io/badge/Portfolio-Website-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+</p>
+
+---
+
+<h3 align="center">"Precision. Structure. Scalable Innovation."</h3>
