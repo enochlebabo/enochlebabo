@@ -1,32 +1,3 @@
-Hello! I'm Enoch Lebabo
-💻 IT Engineer | 📱 Mobile , ml & AI Developer | 🎓 BTech IT @ BVM engineering affliated to GTU, India
+<p align="left">Hello! I'm Enoch Lebabo<br>💻 IT Engineer | 📱 Mobile , ml & AI Developer | 🎓 BTech IT @ BVM engineering affliated to GTU, India<br><br>I’m passionate about building smart, sustainable, and impactful technologies. From mobile apps that detect crop diseases using AI, to marketplace platforms empowering local economies—I believe in tech that transforms lives.<br><br>Technologies I Use: Flutter, Firebase, TensorFlow Lite, Python, Java, SQL , Typescript, R, MySQL,MongoDB, React native<br><br>State -Management -(Bloc / Riverpod)<br><br>Real-Time Data-	(WebSockets / Firebase)<br><br>APIs-	(REST, OAuth 2.0)<br><br>AI/ML-	(Scikit-learn, TensorFlow, PyTorch)<br><br>DL-	(CNN, LSTM)<br><br>Security-	(JWT, Encryption)<br><br>Data-	(PostgreSQL, Firebase)<br><br>Visualization-	(Charts, Maps)<br><br>Recent Projects:<br>- Flutter Food Delivery Ecosystem (UserApp, DriverApp, RestuarantApp, AdminPanel) <br>- E-wallet system (flutter)<br>- Ecommerce Website(python-framework[django])<br>- AI-powered crop disease detection app (flutter) <br>- Mearn stack marketplace  (mern stack)<br>- Ai Smart Retinal Disease Diagnosis using deep learning models(flutter)<br>  <br>📫 Reach me at: [enochlebabo@gmail.com](mailto:enochlebabo@gmail.com) | [LinkedIn](https://linkedin.com/in/enoch-lebabo-04b651266)</p>
 
-I’m passionate about building smart, sustainable, and impactful technologies. From mobile apps that detect crop diseases using AI, to marketplace platforms empowering local economies—I believe in tech that transforms lives.
-
-Technologies I Use: Flutter, Firebase, TensorFlow Lite, Python, Java, SQL , Typescript, R, MySQL,MongoDB, React native
-
-State -Management -(Bloc / Riverpod)
-
-Real-Time Data-	(WebSockets / Firebase)
-
-APIs-	(REST, OAuth 2.0)
-
-AI/ML-	(Scikit-learn, TensorFlow, PyTorch)
-
-DL-	(CNN, LSTM)
-
-Security-	(JWT, Encryption)
-
-Data-	(PostgreSQL, Firebase)
-
-Visualization-	(Charts, Maps)
-
-Recent Projects:
-- Flutter Food Delivery Ecosystem (UserApp, DriverApp, RestuarantApp, AdminPanel) 
-- E-wallet system (flutter)
-- Ecommerce Website(python-framework[django])
-- AI-powered crop disease detection app (flutter) 
-- Mearn stack marketplace  (mern stack)
-- Ai Smart Retinal Disease Diagnosis using deep learning models(flutter)
-  
-📫 Reach me at: [enochlebabo@gmail.com](mailto:enochlebabo@gmail.com) | [LinkedIn](https://linkedin.com/in/enoch-lebabo-04b651266)  
+###
