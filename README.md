@@ -3,7 +3,7 @@
 
 ---
 
-## 🏢 Executive Overview
+##  Executive Overview
 
 I am an Information Technology Engineer focused on building scalable systems, AI-powered platforms, and structured enterprise technology architectures.
 
@@ -19,7 +19,7 @@ Currently pursuing B.Tech in Information Technology while building real-world sc
 
 ---
 
-## 🚀 Core Technology Stack
+##  Core Technology Stack
 
 <div align="center">
 
@@ -53,9 +53,9 @@ Currently pursuing B.Tech in Information Technology while building real-world sc
 
 ---
 
-## 🏗 Strategic Projects
+## Strategic Projects
 
-### 🔬 Retinal-AI
+###  Retinal-AI
 AI-powered retinal disease detection platform featuring:
 - Deep learning fundus image classification
 - Django REST backend
@@ -67,7 +67,7 @@ Designed for scalable healthcare deployment.
 
 ---
 
-### 🚖 Dot-2-Dot Mobility
+###  Dot-2-Dot Mobility
 Enterprise mobility system including:
 - Township & corporate transport
 - Driver subscription system
@@ -78,7 +78,7 @@ Built with Flutter + Django REST + PostgreSQL.
 
 ---
 
-### 🏛 Structured Enterprise Systems
+###  Structured Enterprise Systems
 Designing holding-company-based multi-sector technology enterprises with:
 - Risk isolation architecture
 - Capital consolidation models
@@ -87,7 +87,7 @@ Designing holding-company-based multi-sector technology enterprises with:
 
 ---
 
-## 📊 Engineering Philosophy
+##  Engineering Philosophy
 
 Technology must:
 - Solve systemic problems  
@@ -98,17 +98,6 @@ Technology must:
 
 I build systems, not just applications.
 
----
-
-## 📈 GitHub Performance Metrics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=enochlebabo&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" height="160" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enochlebabo&layout=compact&theme=tokyonight&hide_border=false" height="160" />
-
-</div>
 
 ---
 
@@ -122,7 +111,7 @@ I build systems, not just applications.
 
 ---
 
-## 🌍 Long-Term Vision
+## Long-Term Vision
 
 To build structured, multi-sector technology enterprises across Africa and globally, focusing on:
 
@@ -140,11 +129,8 @@ Transitioning from engineer to technology-driven enterprise architect and capita
 <p align="center">
 <a href="https://www.linkedin.com/in/YOUR_LINK">
 <img src="https://img.shields.io/badge/LinkedIn-Professional-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://twitter.com/YOUR_LINK">
-<img src="https://img.shields.io/badge/Twitter-Tech%20Insights-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-</a>
-<a href="https://portfolio-link.com">
+
+<a href="[https://[portfolio-link.com](https://enochlebabo-portfolio.vercel.app/)](https://enochlebabo-portfolio.vercel.app/)">
 <img src="https://img.shields.io/badge/Portfolio-Website-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 </p>
