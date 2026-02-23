@@ -117,7 +117,7 @@ Transitioning from engineer to technology-driven enterprise architect and capita
 ##  Connect With Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/YOUR_LINK">
+<a href="https://www.linkedin.com/in/enoch-lebabo-04b651266?originalSubdomain=in">
 <img src="https://img.shields.io/badge/LinkedIn-Professional-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 
 <a href="https://enochlebabo-portfolio.vercel.app/">
@@ -127,4 +127,4 @@ Transitioning from engineer to technology-driven enterprise architect and capita
 
 ---
 
-<h3 align="center">"Precision. Structure. Scalable Innovation."</h3>
+<h3 align="center">"Precision| Structure| Scalable Innovation."</h3>
