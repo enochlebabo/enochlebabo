@@ -101,16 +101,6 @@ I build systems, not just applications.
 
 ---
 
-## 🔥 Contribution Activity
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=enochlebabo&theme=tokyonight&hide_border=false" height="160" />
-
-</div>
-
----
-
 ## Long-Term Vision
 
 To build structured, multi-sector technology enterprises across Africa and globally, focusing on:
@@ -124,13 +114,13 @@ Transitioning from engineer to technology-driven enterprise architect and capita
 
 ---
 
-## 🤝 Connect With Me
+##  Connect With Me
 
 <p align="center">
 <a href="https://www.linkedin.com/in/YOUR_LINK">
 <img src="https://img.shields.io/badge/LinkedIn-Professional-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 
-<a href="[https://[portfolio-link.com](https://enochlebabo-portfolio.vercel.app/)](https://enochlebabo-portfolio.vercel.app/)">
+<a href="https://enochlebabo-portfolio.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-Website-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 </p>
