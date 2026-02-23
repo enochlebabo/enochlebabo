@@ -1,5 +1,5 @@
 <h1 align="center">Mr. Enoch Lebabo</h1>
-<h3 align="center">IT Engineer | Full-Stack Architect | AI Systems |  Solutions Architect – Associate</h3>
+<h3 align="center">IT Engineer | Full-Stack | AI Systems |  Solutions Architect – Associate</h3>
 
 ---
 
