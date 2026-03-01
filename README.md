@@ -5,7 +5,7 @@
 
 ##  Executive Overview
 
-I am an Information Technology Engineer focused on building scalable systems, AI-powered platforms, and structured enterprise technology architectures.
+I an Information Technology Engineer focused on building scalable systems, AI-powered platforms, and structured enterprise technology architectures.
 
 My work integrates:
 
@@ -14,8 +14,6 @@ My work integrates:
 - Cloud-Native Infrastructure  
 - Distributed Systems & Data Engineering  
 - Enterprise Structuring & Capital Architecture  
-
-Currently pursuing B.Tech in Information Technology while building real-world scalable products.
 
 ---
 
